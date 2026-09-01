@@ -1,0 +1,7 @@
+
+CREATE TABLE COUNTRIES (
+  countryId INTEGER PRIMARY KEY,
+  countryName VARCHAR(100) NOT NULL,
+  region_id INTEGER NULL
+);
+ 
